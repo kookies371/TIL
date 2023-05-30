@@ -1,5 +1,5 @@
 # TIL
-Today I Learnt  
+Today I Learned
 Today I experienced
 
 ## Daily
